@@ -1,0 +1,111 @@
+.file-input {
+    width: 100%;
+}
+
+.input-group-btn {
+    display: block;
+    width: auto;
+}
+
+.breadcrumb {
+    margin-top: 20px;
+}
+
+.dd3-handle::before {
+    top: 20px;
+    font-size: 32px;
+}
+
+.main-buttons {
+    padding: 15px 5px;
+}
+
+.main-action-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-action-buttons .btn {
+    font-size: 12px;
+    padding: 10px 5px;
+}
+
+.main-action-buttons .btn i {
+    font-size: 10px;
+}
+
+/*!* Neomorphism *!*/
+
+/*body, #sidenav-main, #navbar-main, .card-header {*/
+    /*background-color: #E0E5EC !important;*/
+/*}*/
+
+/*ul.navbar-nav li.nav-item {*/
+
+    /*!* Basic styling and alignment *!*/
+    /*margin-left: 20px;*/
+    /*margin-right: 20px;*/
+    /*border-radius: 25px;*/
+    /*!* Basic styling and alignment *!  !* For Neumorphism Effect *!*/
+    /*background-color: #E0E5EC;*/
+    /*box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255,255,255, 0.5);*/
+    /*!* For Neumorphism Effect *!*/
+    /*transition: all 0.2s ease-in-out;*/
+/*}*/
+
+/*ul.navbar-nav li.nav-item:hover {*/
+    /*box-shadow: 3px 3px 5px rgba(163, 177, 198, 0.6), -3px -3px 5px rgba(255,255,255, 0.5) !important;*/
+/*}*/
+
+/*ul.navbar-nav li.nav-item:active {*/
+    /*box-shadow: 1px 1px 2px rgba(163, 177, 198, 0.6) inset, -1px -1px 2px rgba(255,255,255, 0.5) inset !important;*/
+/*}*/
+
+/*ul.navbar-nav li.nav-item .nav-link, ul.navbar-nav li.nav-item .nav-link:hover {*/
+    /*padding: 1rem !important;*/
+    /*color: #798597;*/
+    /*outline: none;*/
+/*}*/
+
+/*.btn, .btn:link {*/
+    /*border: 0 !important;*/
+    /*padding: 1rem !important;*/
+    /*background-color: #E0E5EC;*/
+    /*box-shadow: -5px -5px 20px rgba(255,255,255, 0.5), 5px 5px 20px rgba(163, 177, 198, 0.6);*/
+    /*color: #798597;*/
+    /*transform:  translateY(0);*/
+    /*border-radius: 32px !important;*/
+/*}*/
+
+/*.btn:hover {*/
+    /*background-color: #E0E5EC !important;*/
+    /*box-shadow: -3px -3px 6px rgba(255,255,255, 0.5), 3px 3px 6px rgba(163, 177, 198, 0.6);*/
+/*}*/
+
+/*.btn:active {*/
+    /*background-color: #E0E5EC !important;*/
+    /*box-shadow: 1px 1px 2px rgba(163, 177, 198, 0.6) inset, -1px -1px 2px rgba(255,255,255, 0.5) inset !important;*/
+/*}*/
+
+/*.btn.btn-primary, .btn.btn-primary:active {*/
+    /*color: #9c86f5 !important;*/
+/*}*/
+
+/*.btn.btn-success, .btn.btn-success:active {*/
+    /*color: #008a10 !important;*/
+/*}*/
+
+/*.card.shadow {*/
+    /*border: 0;*/
+    /*padding: 1rem !important;*/
+    /*background-color: #E0E5EC;*/
+    /*box-shadow: 9px 9px 16px rgba(163, 177, 198, 0.6), -9px -9px 16px rgba(255,255,255, 0.5) !important;*/
+    /*color: #798597;*/
+/*}*/
+
+/*input.form-control {*/
+    /*background-color: #E0E5EC !important;*/
+    /*box-shadow: 2px 2px 5px rgba(163, 177, 198, 0.5) inset, -5px -5px 10px rgba(255, 255, 255, 0.6) inset !important;*/
+    /*border: 0 !important;*/
+    /*border-radius: 50px;*/
+/*}*/
